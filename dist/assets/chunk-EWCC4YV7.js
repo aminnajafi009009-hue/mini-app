@@ -1,0 +1,1 @@
+import{j as t}from"./chunk-HWMK5EEW.js";function e(c="light"){try{t.HapticFeedback.impactOccurred(c)}catch(i){}}function r(c="success"){try{t.HapticFeedback.notificationOccurred(c)}catch(i){}}export{e as a,r as b};
